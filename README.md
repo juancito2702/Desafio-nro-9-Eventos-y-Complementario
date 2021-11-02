@@ -19,6 +19,4 @@ Mi link del Repositorio GitHub:
 https://github.com/juancito2702/Desafio-nro-9-Eventos-y-Complementario.git
 
 
-Mi link del hosting:
 
-https://juancito2702.github.io/JUAN-SILVA--DESAFIO-9-EVENTOS-Y-COMPLEMENTARIO/
